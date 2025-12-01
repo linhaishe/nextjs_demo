@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Home = () => {
+  console.log('Home page loaded')
   return (
     <div>Home</div>
   )
