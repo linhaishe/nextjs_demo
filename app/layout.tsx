@@ -27,6 +27,7 @@ export default function RootLayout({
       <body
         // className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <div>layout as the parent for all of these routes, share ui elements</div>
         {children}
       </body>
     </html>
