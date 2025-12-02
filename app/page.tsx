@@ -1,10 +1,13 @@
-import React from 'react'
+import React from "react";
+import Hello from "@/app/components/hello";
 
 const Home = () => {
-  console.log('Home page loaded')
+  console.log("Home page loaded");
   return (
-    <div>Home</div>
-  )
-}
+    <div>
+      <Hello />
+    </div>
+  );
+};
 
-export default Home
+export default Home;
