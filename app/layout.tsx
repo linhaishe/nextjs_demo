@@ -42,9 +42,9 @@ export default function RootLayout({
             className="custom-rays"
           />
         </div>
-        <div>
+        {/* <div>
           layout as the parent for all of these routes, share ui elements
-        </div>
+        </div> */}
         {children}
       </body>
     </html>

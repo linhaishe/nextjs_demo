@@ -1,5 +1,9 @@
 # NEXT.js 16 2025/12/01
 
+vedio kit: https://jsmastery.com/video-kit/93f20ce7-ace5-4a74-997d-3f8262f3e0a3
+
+learning material: https://www.youtube.com/watch?v=I1V9YWqRIeI&t=281s
+
 # pre info
 
 
